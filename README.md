@@ -1,4 +1,7 @@
-## Hi my name is Mohamad 👋
+## Hi my name is Mohamad 
+💻 I'm a self-taught developer interested in AI, hacking, and building futuristic software.
+🚀 I'm working on a Windows launcher and smart system for social media.
+🎯 Goal: Build my own operating system + custom gaming hardware.
 
 <!--
 **Mohamad88az/Mohamad88az** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
