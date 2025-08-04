@@ -1,4 +1,4 @@
-## Hi my name is Mohamad .
+## Hi my name is Mohamad .پ
 💻 I'm a self-taught developer interested in AI, hacking, and building futuristic software.
 🚀 I'm working on a Windows launcher and smart system for social media.
 🎯 Goal: Build my own operating system + custom gaming hardware.
